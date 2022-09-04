@@ -28,4 +28,4 @@ target_link_libraries(${PROJECT_NAME} ${SDL2_LIBRARIES}
 				${SDL2_TTF_LIBRARIES})
 
 
-add_executable(snake WIN32 src/main.cpp)
+add_executable(snake src/main.cpp)
