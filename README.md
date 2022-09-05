@@ -3,7 +3,7 @@ Snake Game made with C++ and SDL2
 
 # Demo 
 
-![snake-demo](https://media1.giphy.com/media/yS9xHF3XGnV2sG1oNy/giphy.gif?cid=790b7611d71c3635688c0da068798ff25ca9b728d549fecf&rid=giphy.gif&ct=g)
+![snake-demo](https://media2.giphy.com/media/MJCdWvXdQaSKBFLpR0/giphy.gif?cid=790b76112cc8cdaf7d97bf473beaebaf5ec8988e4dfc3a8a&rid=giphy.gif&ct=g)
 
 
 # how to run
