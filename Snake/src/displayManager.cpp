@@ -66,13 +66,13 @@ bool DisplayManager::loadTextures() {
     bool allIsWell = true;
 
     headTexture = loadTexture(ALIVEHEAD);
-    allIsWell |= headTexture == nullptr;
+    allIsWell &= headTexture == nullptr;
     deadHeadTexture = loadTexture(DEADHEAD);
-    allIsWell |= headTexture == nullptr;
+    allIsWell &= headTexture == nullptr;
     bodyTexture = loadTexture(BODY);
-    allIsWell |= headTexture == nullptr;
+    allIsWell &= headTexture == nullptr;
     foodTexture = loadTexture(FOOD);
-    allIsWell |= headTexture == nullptr;
+    allIsWell &= headTexture == nullptr;
 
     return allIsWell;
 }
